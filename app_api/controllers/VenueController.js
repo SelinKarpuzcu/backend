@@ -47,7 +47,7 @@ const listVenues = async function (req, res) {
             if (venues.length > 0)
                 createResponse(res, "200", venues);
             else
-                createResponse(res, "200", { "status": "Civarda mekan yok" });
+                createResponse(res, "200", []);
         });
     } catch (error) {
         createResponse(res, "404", error);
