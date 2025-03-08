@@ -1,4 +1,4 @@
-# Mekan Bul Uygulamasının Backend Kısmı
+# Mekabul React Back-End
 
 Vercel Link: https://backend-git-main-selin-karpuzcu-projects.vercel.app/
 
